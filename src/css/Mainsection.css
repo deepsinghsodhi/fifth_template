@@ -1,0 +1,48 @@
+.head{
+   
+    text-align: center;
+    border: 1px solid rgb(182, 179, 179);
+    /* width: 100%; */
+    margin:  0;
+    font-weight: 500;
+    padding-top: 0.8rem;
+    font-size: 20px;
+}
+.main_block{
+    display: flex;
+}
+.main_block .text_content{
+    margin: auto 0;
+    margin-left: 2rem;
+}
+tbody > img{
+    display: inline-block !important;
+}
+.section{
+    display: flex;
+    height: 22rem;
+} 
+.section tbody tr td{
+    padding: 0.8rem 1.5rem;
+}
+.review h5{
+    padding: 0em 2rem;
+}
+.settings{
+    display: flex;
+}
+.block2{
+    display: flex;
+    /* padding: 5%; */
+}
+.block2 span{
+    margin-right: 1rem;
+    font-weight: 500;
+}
+.camera{
+    height: 6rem;
+}
+.camera img{
+    height: 100%;
+}
+
